@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-color: #900C3F;
+}
+
+h1 {
+  font-size: 5rem;
+  color: white;
+  font-family: "Changa", sans-serif;
+
+}
+
+footer {
+  color: white;
+  font-family: sans-serif;
+}
+
+.w {background-image: url("images/red-squirrel.jpg");
+
+}
+
+.a {background-image: url('images/squirreltom2.jpg');
+
+}
+
+.s {background-image: url('images/squirreltom3.jpg');
+
+}
+
+.d {background-image: url('images/squirreltom1.jpg');
+
+}
+
+.j {background-image: url('images/squirrel-snare.jpg');
+
+}
+
+.k {background-image: url('images/squirrel-kick.jpg');
+
+}
+
+.l {background-image: url('images/squirrel-cymbal.png');
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 white;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #CC241B;
+  font-size: 5rem;
+  font-family: 'Changa', sans-serif;
+  line-height: 2;
+  font-weight: 900;
+  color: #CC241B;
+  text-shadow: 3px 0 white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 160px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
